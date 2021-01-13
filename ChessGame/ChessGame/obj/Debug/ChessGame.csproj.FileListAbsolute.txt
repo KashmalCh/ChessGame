@@ -1,0 +1,9 @@
+E:\C#\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+E:\C#\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+E:\C#\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+E:\C#\ChessGame\ChessGame\obj\Debug\ChessGame.csprojResolveAssemblyReference.cache
+E:\C#\ChessGame\ChessGame\obj\Debug\ChessGame.ChessGame.resources
+E:\C#\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+E:\C#\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.Cache
+E:\C#\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+E:\C#\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
